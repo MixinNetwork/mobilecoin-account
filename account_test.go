@@ -5,7 +5,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/jadeydi/mobilecoin-account/types"
+	"github.com/MixinNetwork/mobilecoin-account/types"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/protobuf/proto"
 )

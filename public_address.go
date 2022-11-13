@@ -8,7 +8,7 @@ import (
 	"hash/crc32"
 
 	"github.com/MixinNetwork/mixin/util/base58"
-	"github.com/jadeydi/mobilecoin-account/types"
+	"github.com/MixinNetwork/mobilecoin-account/types"
 	"google.golang.org/protobuf/proto"
 )
 
