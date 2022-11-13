@@ -5,9 +5,9 @@ import (
 	"encoding/hex"
 	"hash/crc32"
 
-	"github.com/MixinNetwork/mixin/util/base58"
 	"github.com/bwesterb/go-ristretto"
 	"github.com/dchest/blake2b"
+	"github.com/jadeydi/mobilecoin-account/base58"
 	"github.com/jadeydi/mobilecoin-account/types"
 	"google.golang.org/protobuf/proto"
 )
