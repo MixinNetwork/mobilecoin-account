@@ -7,7 +7,7 @@ package base58_test
 import (
 	"testing"
 
-	"github.com/MixinNetwork/mixin/util/base58"
+	"github.com/MixinNetwork/mobilecoin-account/base58"
 )
 
 var checkEncodingStringTests = []struct {

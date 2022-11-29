@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/MixinNetwork/mixin/util/base58"
+	"github.com/MixinNetwork/mobilecoin-account/base58"
 )
 
 var stringTests = []struct {

@@ -3,7 +3,6 @@ module github.com/MixinNetwork/mobilecoin-account
 go 1.19
 
 require (
-	github.com/MixinNetwork/mixin v0.14.15
 	github.com/bwesterb/go-ristretto v1.2.2
 	github.com/dchest/blake2b v1.0.0
 	github.com/stretchr/testify v1.8.0
